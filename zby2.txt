@@ -18,7 +18,16 @@ CCTV-15_音乐,http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3
 CCTV-16_奥林匹克,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 CCTV-17_农业农村,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
 
-
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CCTV4K,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV4K,http://60.205.114.16/ysp/cctv4k.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+CCTV4K,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
 
 
 卫视频道,#genre#
