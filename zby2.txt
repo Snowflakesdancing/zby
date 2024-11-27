@@ -24,11 +24,13 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CCTV4K,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV4K,http://60.205.114.16/ysp/cctv4k.m3u8
-CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-CCTV4K,http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
-
+CCTV4K,http://5f11df.tv.netsite.cc/proxy/968404657/968404657.m3u8
+CCTV4K,http://116.77.66.169/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
+CCTV4K,http://117.141.194.182:39581/stream/channelid/71777368
+CCTV4K,http://tvbox.netsite.cc/proxy/679257699/679257699.m3u8
+CCTV4K,http://112.25.105.140/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
+CCTV4K,http://lu1.cc/itv/php/cctv4k.php
+CCTV4K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
 
 卫视频道,#genre#
 北京卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8
